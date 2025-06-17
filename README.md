@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gongrzhe-calendar-autoauth-mcp-server-badge.png)](https://mseep.ai/app/gongrzhe-calendar-autoauth-mcp-server)
+
 # Calendar AutoAuth MCP Server
 
 A Model Context Protocol (MCP) server for Google Calendar integration in Cluade Desktop with auto authentication support. This server enables AI assistants to manage Google Calendar events through natural language interactions.
